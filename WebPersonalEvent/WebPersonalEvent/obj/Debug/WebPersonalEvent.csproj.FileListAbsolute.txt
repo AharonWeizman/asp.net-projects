@@ -1,0 +1,84 @@
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll.config
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.pdb
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\Antlr3.Runtime.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Infrastructure.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Net.Http.Formatting.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Http.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Http.WebHost.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Optimization.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Providers.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\WebGrease.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Net.Http.Formatting.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Http.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Http.WebHost.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.xml
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.csprojResolveAssemblyReference.cache
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.dll
+F:\Freelancer.com\07Jully2015\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.pdb
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll.config
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.pdb
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Providers.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.dll
+\\vmware-host\Shared Folders\Desktop\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.pdb
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll.config
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\WebPersonalEvent.pdb
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\Antlr3.Runtime.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Optimization.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Providers.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\WebGrease.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\EntityFramework.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\Newtonsoft.Json.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Mvc.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.Razor.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.csprojResolveAssemblyReference.cache
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.dll
+C:\Users\Ron\Documents\Visual Studio 2013\Projects\WebPersonalEvent\WebPersonalEvent\obj\Debug\WebPersonalEvent.pdb
